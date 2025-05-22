@@ -1,5 +1,5 @@
 ## Routes:
-## Authentication Routes
+## Authentication Routes (API documentaion)
 | Method | Endpoint             | Description               |
 |--------|----------------------|---------------------------|
 | POST   | `/api/auth/register` | Register a new user       |
